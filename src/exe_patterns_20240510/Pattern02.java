@@ -1,6 +1,6 @@
 package exe_patterns_20240510;
 
-public class Patterns02 {
+public class Pattern02 {
     public static void main(String[] args) {
 
         //Patterns complex program
